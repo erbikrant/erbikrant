@@ -2,7 +2,7 @@
 
 - 🤖 Robotics and AI Enthusiast | Bridging the Gap Between Humans and Machines 🚀
 - 🎓 Master's in Mechatronics at the Centre for Advanced Studies, Lucknow
-- 💼 Research Intern at IIT Kanpur, specializing in robotics, AI, and automation
+- 💼 Researcher at IIT Kanpur, specializing in robotics, AI, and automation
 - 🔍 Actively involved in cutting-edge research with a focus on ROS1, Python, C++, CAD, IoT, SLAM, and more
 - 🚗 Hands-on experience in the automobile sector, contributing to production efficiency and defect reduction
 - 🌟 Let's connect and explore how we can shape the future of technology together! #Robotics #AI #Innovation #Automobile
